@@ -5,7 +5,8 @@
 ---
 Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student with a passion for programming and problem-solving. My skillset includes proficiency in C, Python, and full-stack web development. I'm experienced in working with a wide array of libraries, including PANDAs, Matplotlib, Bootstrap, and many more, which enables me to deliver efficient and high-quality solutions.
 
-##🛠️ Skills
+---
+## 🛠️ Skills
 
 My current skillset:
 
@@ -26,3 +27,12 @@ My current skillset:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="Jupyter" title="Jupyter" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" width="40" alt="Bash" title="Bash" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" height="40" width="40" alt="Vim" title="Vim" />&nbsp;
+
+### Libraries & Frameworks
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40" width="40" alt="Anaconda" title="Anaconda" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" width="40" alt="Pandas" title="Pandas" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" width="40" alt="NumPy" title="NumPy" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap" title="Bootstrap" />&nbsp;
+
+
