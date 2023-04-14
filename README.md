@@ -1,10 +1,6 @@
 <img src="image.png"></img>
 ---
 ### <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Welcome to my Github Profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></p>
-<p align="center">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=juno-cheng.juno-cheng)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)</p>
-
 
 ---
 Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student with a passion for programming and problem-solving. My skillset includes proficiency in C, Python, and full-stack web development. I'm experienced in working with a wide array of libraries, including PANDAs, Matplotlib, Bootstrap, and many more, which enables me to deliver efficient and high-quality solutions.
@@ -38,8 +34,20 @@ Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student wi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap" title="Bootstrap" />&nbsp;
 
 ---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/juno-cheng/github-profile-trophy)
+
+---
 ## 🔗 Info 
 
 <a href="mailto:chengjonathan2021@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-cheng-0a552921b/) 
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=juno-cheng.juno-cheng)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
