@@ -2,7 +2,7 @@
 ---
 ### <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Welcome to my Github Profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Juno-Cheng.Juno-Cheng)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=juno-cheng.juno-cheng)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
