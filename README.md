@@ -35,4 +35,12 @@ My current skillset:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" width="40" alt="NumPy" title="NumPy" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap" title="Bootstrap" />&nbsp;
 
+---
+## <p align="center">🔗 Info 🔗</p>
 
+<p align="center">Feel Free to Contact Me</p>
+
+<p align="center">
+<a href="mailto:chengjonathan2021@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-cheng-0a552921b/) 
+</p>
