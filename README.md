@@ -37,13 +37,20 @@ Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student wi
 
 ## 🏆 GitHub Trophies
 
+<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=juno-cheng&theme=nord&column=7)](https://github.com/juno-cheng/github-profile-trophy)
 
+</div>
 ---
 ## 🔗 Info 
 
+<div style="display: flex; justify-content: center; gap: 8px;">
+
 <a href="mailto:chengjonathan2021@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-cheng-0a552921b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-cheng-0a552921b/)
+
+</div>
 
 ---
 
