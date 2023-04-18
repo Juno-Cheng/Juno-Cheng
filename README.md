@@ -37,7 +37,7 @@ Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student wi
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-trophies.vercel.app/?username=juno-cheng&row=1&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://githubpersonaltrophies-aasdl3w2t-juno-cheng.vercel.app/?username=juno-cheng&row=1&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ## 🔗 Info 
