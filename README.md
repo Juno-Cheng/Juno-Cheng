@@ -6,6 +6,12 @@
 Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student with a passion for programming and problem-solving. My skillset includes proficiency in C, Python, and full-stack web development. I'm experienced in working with a wide array of libraries, including PANDAs, Matplotlib, Bootstrap, and many more, which enables me to deliver efficient and high-quality solutions.
 
 ---
+
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=juno-cheng&theme=dark)](https://git.io/streak-stats)
+<p>
+
+
 ## 🛠️ Skills
 
 ### Languages
@@ -40,11 +46,13 @@ Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student wi
 [![trophy](https://github-trophies-seven.vercel.app/?username=juno-cheng&row=1&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-## Activity 
+## 🔗 Info 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=juno-cheng&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=juno-cheng&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juno-cheng&count_private=true&layout=compact" />
+</div>
 
 
 ---
