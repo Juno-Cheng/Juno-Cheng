@@ -8,7 +8,9 @@ Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student wi
 ---
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=juno-cheng&theme=dark)](https://git.io/streak-stats)
+<a href="https://github.com/XynoxTheDev/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=juno-cheng&theme=dark)](https://git.io/streak-stats" />
+    </a>
 <p>
 
 
