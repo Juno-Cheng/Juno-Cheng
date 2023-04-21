@@ -45,8 +45,7 @@ Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student wi
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=juno-cheng&count_private=true&include_all_commits=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juno-cheng&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juno-cheng&count_private=true&layout=compact" />
 </div>
 
 
