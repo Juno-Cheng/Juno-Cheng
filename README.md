@@ -40,13 +40,11 @@ Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student wi
 [![trophy](https://github-trophies-seven.vercel.app/?username=juno-cheng&row=1&column=8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-## 🔗 Info 
+## Activity 
 
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=juno-cheng&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juno-cheng&count_private=true&layout=compact" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=juno-cheng&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 
 
 ---
