@@ -43,8 +43,10 @@ Hello, I'm Jonathan Cheng, a Computer Science and Game Design college student wi
 ## 🔗 Info 
 
 
-<a href="mailto:chengjonathan2021@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-cheng-0a552921b/)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=juno-cheng&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juno-cheng&layout=compact" />
+</div>
 
 
 ---
